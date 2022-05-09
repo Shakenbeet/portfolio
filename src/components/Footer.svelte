@@ -11,9 +11,13 @@
     }
 </style>
 
-<div class="footer">
-    <h1 class="copyrightText">Copyright © 2022 Shakenbeet</h1>
+<div class="footer" id="contact">
+    <h1 class="copyrightText">Copyright © 2022 Luke Gobin</h1>
 
-    <button>Github!</button>
-    <button>E-Mail</button>
+    <a href="https://github.com/Shakenbeet" style="text-decoration: none;">
+        <button>Visit My Github Profile</button>
+    </a>
+    <a href="mailto:luke.gobin1@icloud.com" style="text-decoration: none;">
+        <button>Send an E-Mail</button>
+    </a>
 </div>
