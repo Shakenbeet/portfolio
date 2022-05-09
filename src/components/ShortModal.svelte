@@ -8,5 +8,7 @@
 <Modal>
     <PopUpContent 
         popupMessage="{msg}"
+        popupTitle="About"
+        buttonText='Learn More'
     />
 </Modal>
