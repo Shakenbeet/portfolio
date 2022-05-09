@@ -3008,6 +3008,7 @@ var app = (function () {
     	let main;
     	let header;
     	let t0;
+    	let div;
     	let h10;
     	let t2;
     	let p0;
@@ -3094,11 +3095,12 @@ var app = (function () {
     			main = element("main");
     			create_component(header.$$.fragment);
     			t0 = space();
+    			div = element("div");
     			h10 = element("h1");
     			h10.textContent = "Luke Gobin";
     			t2 = space();
     			p0 = element("p");
-    			p0.textContent = "Welcome to my website";
+    			p0.textContent = "an endless journey of spaghetti code";
     			t4 = space();
     			h11 = element("h1");
     			h11.textContent = "About Me";
@@ -3125,17 +3127,19 @@ var app = (function () {
     			create_component(shortmodal2.$$.fragment);
     			t18 = space();
     			create_component(footer.$$.fragment);
-    			attr_dev(h10, "class", "svelte-1tky8bj");
-    			add_location(h10, file, 9, 1, 259);
-    			add_location(p0, file, 10, 1, 281);
-    			attr_dev(h11, "class", "svelte-1tky8bj");
-    			add_location(h11, file, 12, 1, 314);
-    			add_location(p1, file, 13, 1, 334);
-    			attr_dev(h12, "class", "svelte-1tky8bj");
-    			add_location(h12, file, 15, 1, 372);
-    			attr_dev(h13, "class", "svelte-1tky8bj");
-    			add_location(h13, file, 19, 1, 806);
-    			attr_dev(main, "class", "svelte-1tky8bj");
+    			attr_dev(h10, "class", "svelte-oer4c6");
+    			add_location(h10, file, 10, 2, 283);
+    			add_location(p0, file, 11, 2, 306);
+    			attr_dev(div, "class", "header svelte-oer4c6");
+    			add_location(div, file, 9, 1, 259);
+    			attr_dev(h11, "class", "svelte-oer4c6");
+    			add_location(h11, file, 14, 1, 363);
+    			add_location(p1, file, 15, 1, 383);
+    			attr_dev(h12, "class", "svelte-oer4c6");
+    			add_location(h12, file, 17, 1, 421);
+    			attr_dev(h13, "class", "svelte-oer4c6");
+    			add_location(h13, file, 21, 1, 855);
+    			attr_dev(main, "class", "svelte-oer4c6");
     			add_location(main, file, 7, 0, 237);
     		},
     		l: function claim(nodes) {
@@ -3145,9 +3149,10 @@ var app = (function () {
     			insert_dev(target, main, anchor);
     			mount_component(header, main, null);
     			append_dev(main, t0);
-    			append_dev(main, h10);
-    			append_dev(main, t2);
-    			append_dev(main, p0);
+    			append_dev(main, div);
+    			append_dev(div, h10);
+    			append_dev(div, t2);
+    			append_dev(div, p0);
     			append_dev(main, t4);
     			append_dev(main, h11);
     			append_dev(main, t6);

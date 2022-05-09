@@ -7,8 +7,10 @@
 
 <main>
 	<Header />
-	<h1>Luke Gobin</h1>
-	<p>Welcome to my website</p>
+	<div class='header'>
+		<h1>Luke Gobin</h1>
+		<p>an endless journey of spaghetti code</p>
+	</div>
 
 	<h1>About Me</h1>
 	<p>Lorem ipsum dolor sit amet</p>
@@ -29,7 +31,7 @@
 <style>
 	main {
 		text-align: center;
-		padding: 1em;
+		padding: 2em;
 		max-width: 240px;
 		margin: 0 auto;
 	}
@@ -39,6 +41,11 @@
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
+	}
+
+	.header {
+		padding-top: 10%;
+		padding-bottom: 20%;
 	}
 
 	@media (min-width: 640px) {
