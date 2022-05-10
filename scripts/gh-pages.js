@@ -5,7 +5,7 @@ ghpages.publish(
     {
         branch: 'gh-pages',
         silent: true,
-        repo: 'https://' + process.env.GITHUB_TOKEN + '@github.com:Shakenbeet/portfolio.git',
+        repo: 'https://github.com/Shakenbeet/portfolio.git',
         user: {
             name: 'Luke Gobin',
             email: 'luke.gobin1@icloud.com'
