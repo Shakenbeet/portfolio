@@ -4,4 +4,4 @@
 My Website made with Svelte, visit at [Shakenbeet.me](https://Shakenbeet.me)
 
 ## TODO
-- [ ] Fix Website scaling on Mobile 
+- [X] Fix Website scaling on Mobile 
