@@ -39,7 +39,7 @@
 
 		<h2>Other Projects</h2>
 		<Project projectName="Image Resize" projectDesc="Image Resize was made with the purpose of resizing multiple images quickly." projectImage="ImageResize.png" projectLink="https://github.com/Shakenbeet/ImageResizeTool"/>
-		<ShortModal msg="In my school's yearbook department, my peers would always ask me to resize their images in Photoshop. Photoshop is very slow, so these tasks were very tedious. So I created ImageResize so my peers and I can easily and quickly resize several images" />
+		<ShortModal msg="In my school's yearbook department, my peers would always ask me to resize their images in Photoshop. Photoshop is very slow and these tasks were very tedious, so I created ImageResize so my peers and I can easily and quickly resize several images" />
 
 		<Project projectName="Nova Storefront" projectDesc="My most successful application to date, Nova was a psuedo game-storefront." projectImage="nova.png" buttonText="Source not Available"/>
 		<ShortModal msg="My schoolmates wanted to play my games, so I created Nova as a launcher for all my games. The website was made with raw HTML and the client was made in WPF" />
