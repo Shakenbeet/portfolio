@@ -2,3 +2,6 @@
 
 # My Website
 Made with Svelte
+
+## TODO
+- [ ] Fix Website scaling on Mobile 
