@@ -75,7 +75,6 @@
 	main {
 		text-align: center;
 		/* padding: 2em; */
-		/* max-width: 240px; Broke scaling of website on mobile devices for some reason */
 		/* margin: 0 auto; */
 		overflow-x: hidden;
 	}
