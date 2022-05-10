@@ -20,4 +20,8 @@
     <a href="mailto:luke.gobin1@icloud.com" style="text-decoration: none;">
         <button>Send an E-Mail</button>
     </a>
+
+    <br/>
+
+    <p>I am also on Discord: <b>Prodski#2432</b></p>
 </div>
