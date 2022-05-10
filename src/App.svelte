@@ -41,7 +41,7 @@
 		<Project projectName="Image Resize" projectDesc="Image Resize was made with the purpose of resizing multiple images quickly." projectImage="ImageResize.png" projectLink="https://github.com/Shakenbeet/ImageResizeTool"/>
 		<ShortModal msg="Image Resize replaces images it resizes, permanently deleting the original file. I have fallen victim to my own project's flaws many times, yet I still too lazy to fix it :)" />
 
-		<Project projectName="Nova Storefront" projectDesc="My most successful application to date, Nova was a psuedo game-storefront." projectImage="Nova.png" buttonText="Source not Available"/>
+		<Project projectName="Nova Storefront" projectDesc="My most successful application to date, Nova was a psuedo game-storefront." projectImage="nova.png" buttonText="Source not Available"/>
 		<ShortModal msg="Nova was written in raw HTML and preformance was terrible. A Desktop version was once available, it was a WPF app that used Cefsharp to connect to the Nova website. Games were difficult to download and play because of how challenging it was to use the Nova client." />
 
 		<h1 id="games">My Games</h1>
