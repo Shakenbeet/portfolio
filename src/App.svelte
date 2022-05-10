@@ -35,14 +35,14 @@
 		<h1 id="work">My Applications</h1>
 		<h2>Featured Project</h2>
 		<Project projectName="Visual Code" projectDesc="Visual Code is an application to help new programmers write C# code with ease." projectImage="VC.png" projectLink="https://github.com/Shakenbeet/VisualCode"/>
-		<ShortModal msg="When I started to learn how to program I always wanted to try and get friends and families to learn aswell, however programming proved to difficult for them. August of 2022"/>
+		<ShortModal msg="When I started to learn how to program I always wanted to try and get friends and family to learn aswell, however programming proved difficult for them. So I created VisualCode, which use dropboxes and simple UI to help the end user create simple C# console apps"/>
 
 		<h2>Other Projects</h2>
 		<Project projectName="Image Resize" projectDesc="Image Resize was made with the purpose of resizing multiple images quickly." projectImage="ImageResize.png" projectLink="https://github.com/Shakenbeet/ImageResizeTool"/>
-		<ShortModal msg="Image Resize replaces images it resizes, permanently deleting the original file. I have fallen victim to my own project's flaws many times, yet I still too lazy to fix it :)" />
+		<ShortModal msg="In my school's yearbook department, my peers would always ask me to resize their images in Photoshop. Photoshop is very slow, so these tasks were very tedious. So I created ImageResize so my peers and I can easily and quickly resize several images" />
 
 		<Project projectName="Nova Storefront" projectDesc="My most successful application to date, Nova was a psuedo game-storefront." projectImage="nova.png" buttonText="Source not Available"/>
-		<ShortModal msg="Nova was written in raw HTML and preformance was terrible. A Desktop version was once available, it was a WPF app that used Cefsharp to connect to the Nova website. Games were difficult to download and play because of how challenging it was to use the Nova client." />
+		<ShortModal msg="My schoolmates wanted to play my games, so I created Nova as a launcher for all my games. The website was made with raw HTML and the client was made in WPF" />
 
 		<h1 id="games">My Games</h1>
 		<h2>Featured Game</h2>
